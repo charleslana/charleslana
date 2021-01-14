@@ -15,3 +15,11 @@ I like to learn any relationship with technology by being self-taught, I also li
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charleslana&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+### Technologies and Tools 
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=informational)
+![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Front-ReactJs-informational?style=flat&logo=react&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Back-NodeJs-informational?style=flat&logo=node.js&logoColor=white&color=informational)
