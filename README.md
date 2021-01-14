@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charleslana/)](https://www.linkedin.com/in/charleslana/)
 
 ### About me
-I develop a project in the back end and also in the front end, I also really like artificial intelligence, I also really like artificial intelligence.
+I develop front end and back end projects using the most updated tools and technologies, I also really like artificial intelligence.
 
 ### Skills
 I like to learn any relationship with technology by being self-taught, I also like to find bugs in applications
