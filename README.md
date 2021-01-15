@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/charleslana)](https://github.com/charleslana)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charleslana/)](https://www.linkedin.com/in/charleslana/)
-![image title](https://rushter.com/counter.svg)
+![!](https://komarev.com/ghpvc/?username=charleslana)
 
 ### About me
 I develop front end and back end projects using the most updated tools and technologies, I also really like artificial intelligence.
