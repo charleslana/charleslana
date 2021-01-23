@@ -10,9 +10,9 @@ I develop front end and back end projects using the most updated tools and techn
 ### Skills
 I like to learn any relationship with technology by being self-taught, I also like to find bugs in applications
 
-- [Courses](https://www.udemy.com/user/charles-lana-marques-da-silva/) 👨🏼‍🏫 - Meet some courses I took at Udemy, it was too much!
+- [Courses](https://www.udemy.com) 👨🏼‍🏫 - Meet some courses I took at Udemy, it was too much!
 - [Blog](https://github.com/charleslana) ✍🏼 - Coming soon.
-- [Website](https://www.charleslana.com.br/) 💻 - Here is something that will bring you back here.
+- [Website](https://www.charleslana.com.br) 💻 - Here is something that will bring you back here.
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charleslana&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
