@@ -13,7 +13,7 @@ I like to learn any relationship with technology by being self-taught, I also li
 - [Courses](https://www.udemy.com) 👨🏼‍🏫 - Meet some courses I took at Udemy, it was too much!
 - [Blog](https://github.com/charleslana) ✍🏼 - Coming soon.
 
-#### Long live salvation!
+#### Long live salvation
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charleslana&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
