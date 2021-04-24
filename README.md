@@ -12,7 +12,7 @@ I like to learn any relationship with technology by being self-taught, I also li
 
 #### Long live salvation
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charleslana&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charleslana&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies and Tools 
 
