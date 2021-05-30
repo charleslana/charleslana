@@ -16,9 +16,10 @@ I like to learn any relationship with technology by being self-taught, I also li
 
 ### Technologies and Tools 
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
-![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=informational)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=orange)
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Front-ReactJs-informational?style=flat&logo=react&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Back-NodeJs-informational?style=flat&logo=node.js&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Front-Angular-informational?style=flat&logo=angular&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Front-ReactJs-informational?style=flat&logo=react&logoColor=white&color=cyan)
+![](https://img.shields.io/badge/Back-NodeJs-informational?style=flat&logo=node.js&logoColor=white&color=green)
+![](https://img.shields.io/badge/Front-Angular-informational?style=flat&logo=angular&logoColor=white&color=red)
+![](https://img.shields.io/badge/Front-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=cyan)
