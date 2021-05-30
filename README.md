@@ -23,3 +23,6 @@ I like to learn any relationship with technology by being self-taught, I also li
 ![](https://img.shields.io/badge/Back-NodeJs-informational?style=flat&logo=node.js&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Front-Angular-informational?style=flat&logo=angular&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Front-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=cyan)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=gray)
+![](https://img.shields.io/badge/Test-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=green)
