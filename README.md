@@ -14,7 +14,7 @@ I really like technology, studying is always a novelty, I develop and test proje
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charleslana&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <img width="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charleslana&langs_count=6&theme=dracula&layout=compact"/>
 
-### Technologies and Tools 
+### Technologies
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
