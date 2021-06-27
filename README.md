@@ -1,4 +1,5 @@
 # Hello Devs! I'm Charles
+#### Long live salvation
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/charleslana)](https://github.com/charleslana)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charleslana/)](https://www.linkedin.com/in/charleslana/)
@@ -9,8 +10,6 @@ I develop front end and back end projects using the most updated tools and techn
 
 ### Skills
 I like to learn any relationship with technology by being self-taught, I also like to find bugs in applications
-
-#### Long live salvation
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charleslana&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <img width="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charleslana&langs_count=6&theme=dracula&layout=compact"/>
