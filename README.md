@@ -6,10 +6,10 @@
 ![!](https://komarev.com/ghpvc/?username=charleslana&color=yellowgreen)
 
 ### About me
-I develop front end and back end projects using the most updated tools and technologies.
+Life is a great path and the journey is a beginning of many emotions.
 
 ### Skills
-I like to learn any relationship with technology by being self-taught, I also like to find bugs in applications
+I really like technology, studying is always a novelty, I develop and test projects.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charleslana&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <img width="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charleslana&langs_count=6&theme=dracula&layout=compact"/>
