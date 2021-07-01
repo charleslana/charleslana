@@ -3,6 +3,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/charleslana)](https://github.com/charleslana)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charleslana/)](https://www.linkedin.com/in/charleslana/)
+[![Play-store Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Play_Arrow_logo.svg/20px-Google_Play_Arrow_logo.svg.png) Play Store](https://play.google.com/store/apps/developer?id=Charles+Lana)
 ![!](https://komarev.com/ghpvc/?username=charleslana&color=yellowgreen)
 
 ### About me
