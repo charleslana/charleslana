@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a target='_blank' href="https://play.google.com/store/apps/developer?id=Charles+Lana">
-        <img src="https://img.shields.io/badge/Google%20Play-48ff48?style=for-the-badge&logo=googleplay&logoColor=black">
+        <img src="https://img.shields.io/badge/Play Store-48ff48?style=for-the-badge&logo=googleplay&logoColor=black">
     </a>
 </div>
 
