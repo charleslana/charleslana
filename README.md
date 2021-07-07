@@ -1,10 +1,17 @@
-# Hello Devs! I'm Charles
+# Hello there, I'm Charles
 #### Long live salvation
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/charleslana)](https://github.com/charleslana)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charleslana/)](https://www.linkedin.com/in/charleslana/)
-[![Play-store Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Play_Arrow_logo.svg/20px-Google_Play_Arrow_logo.svg.png) Play Store](https://play.google.com/store/apps/developer?id=Charles+Lana)
-![!](https://komarev.com/ghpvc/?username=charleslana&color=yellowgreen)
+<div>
+    <a target='_blank' href="https://github.com/charleslana">
+        <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white">
+    </a>
+    <a target='_blank' href="https://www.linkedin.com/in/charleslana">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a target='_blank' href="https://play.google.com/store/apps/developer?id=Charles+Lana">
+        <img src="https://img.shields.io/badge/Google%20Play-48ff48?style=for-the-badge&logo=googleplay&logoColor=ff3333">
+    </a>
+</div>
 
 ### About me
 Life is a great path and the journey is a beginning of many emotions.
