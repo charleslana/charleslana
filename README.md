@@ -13,6 +13,9 @@
     </a>
 </div>
 
+###
+![!](https://komarev.com/ghpvc/?username=charleslana&color=yellowgreen)
+
 ### About me
 Life is a great path and the journey is a beginning of many emotions.
 
