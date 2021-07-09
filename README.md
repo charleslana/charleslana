@@ -27,7 +27,7 @@ I really like technology, studying is always a novelty, I develop and test proje
 
 ### Technologies
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=87cf3e)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=black&color=fcc624)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=f7df1e)
 ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178c6)
 ![](https://img.shields.io/badge/Front-ReactJs-informational?style=flat&logo=react&logoColor=black&color=61dafb)
