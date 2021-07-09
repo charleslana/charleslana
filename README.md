@@ -3,13 +3,13 @@
 
 <div>
     <a target='_blank' href="https://github.com/charleslana">
-        <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white">
+        <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white&color=181717">
     </a>
     <a target='_blank' href="https://www.linkedin.com/in/charleslana">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2">
     </a>
     <a target='_blank' href="https://play.google.com/store/apps/developer?id=Charles+Lana">
-        <img src="https://img.shields.io/badge/Play Store-48ff48?style=for-the-badge&logo=googleplay&logoColor=black">
+        <img src="https://img.shields.io/badge/Play Store-48ff48?style=for-the-badge&logo=googleplay&logoColor=black&color=414141">
     </a>
 </div>
 
