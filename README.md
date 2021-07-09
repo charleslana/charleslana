@@ -30,6 +30,7 @@ I really like technology, studying is always a novelty, I develop and test proje
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=black&color=fcc624)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=f7df1e)
 ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178c6)
+![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=0175c2)
 ![](https://img.shields.io/badge/Front-ReactJs-informational?style=flat&logo=react&logoColor=black&color=61dafb)
 ![](https://img.shields.io/badge/Back-NodeJs-informational?style=flat&logo=node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Front-Angular-informational?style=flat&logo=angular&logoColor=white&color=dd0031)
