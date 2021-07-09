@@ -14,7 +14,7 @@
 </div>
 
 ###
-![!](https://komarev.com/ghpvc/?username=charleslana&color=yellowgreen)
+![!](https://komarev.com/ghpvc/?username=charleslana&color=006699)
 
 ### About me
 Life is a great path and the journey is a beginning of many emotions.
