@@ -1,5 +1,5 @@
 # Hello there, I'm Charles
-#### Life is a trail and we can find dreams
+#### Life is a great path and the journey is a beginning of many emotions.
 
 <div>
     <a target="_blank" href="https://github.com/charleslana">
@@ -19,11 +19,8 @@
 ###
 ![!](https://komarev.com/ghpvc/?username=charleslana&color=006699)
 
-### About me
-Life is a great path and the journey is a beginning of many emotions.
-
-### Skills
-I really like technology, studying is always a novelty, I develop and test projects.
+### What's more practical
+Studying is always a novelty, I develop and test projects, Always help those in need.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charleslana&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <img width="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charleslana&langs_count=10&theme=dracula&layout=compact"/>
