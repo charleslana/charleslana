@@ -1,5 +1,5 @@
 # Hello there, I'm Charles
-#### Long live salvation
+#### Life is a trail and we can find dreams
 
 <div>
     <a target="_blank" href="https://github.com/charleslana">
