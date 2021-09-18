@@ -10,7 +10,10 @@
     </a>
     <a target="_blank" href="https://play.google.com/store/apps/developer?id=Charles+Lana">
         <img src="https://img.shields.io/badge/Play Store-48ff48?style=for-the-badge&logo=googleplay&logoColor=white&color=414141">
-    </a>   
+    </a>
+    <a target="_blank" href="https://codepen.io/charleslana">
+        <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&color=000000">
+    </a>
 </div>
 
 ###
