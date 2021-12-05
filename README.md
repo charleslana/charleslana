@@ -35,6 +35,7 @@ Studying is always a novelty, I develop and test projects, Always help those in 
 ![](https://img.shields.io/badge/Back-NodeJs-informational?style=flat&logo=node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Front-Angular-informational?style=flat&logo=angular&logoColor=white&color=dd0031)
 ![](https://img.shields.io/badge/Front-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=02569b)
+![](https://img.shields.io/badge/Front-React%20Native-informational?style=flat&logo=react&logoColor=white&color=cyan)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=ff6c37)
 ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=17202c)
 ![](https://img.shields.io/badge/Test-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=43b02a)
@@ -46,3 +47,4 @@ Studying is always a novelty, I develop and test projects, Always help those in 
 ![](https://img.shields.io/badge/Tools-IntelliJ%20IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=black)
 ![](https://img.shields.io/badge/Tools-WebStorm-informational?style=flat&logo=webstorm&logoColor=white&color=black)
 ![](https://img.shields.io/badge/Tools-Visual%20Studio%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007acc)
+![](https://img.shields.io/badge/Tools-Expo-informational?style=flat&logo=expo&logoColor=white&color=106CB0)
