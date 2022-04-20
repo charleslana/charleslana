@@ -11,13 +11,7 @@
     <a target="_blank" href="https://play.google.com/store/apps/developer?id=Charles+Lana">
         <img src="https://img.shields.io/badge/Play Store-48ff48?style=for-the-badge&logo=googleplay&logoColor=white&color=414141">
     </a>
-    <a target="_blank" href="https://codepen.io/charleslana">
-        <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&color=000000">
-    </a>
 </div>
-
-### Check out Charles' Blog
-<a href="https://charleslana.netlify.app/" target="_blank">https://charleslana.netlify.app/</a>
 
 ###
 ![!](https://komarev.com/ghpvc/?username=charleslana&color=006699)
@@ -52,3 +46,4 @@ Studying is always a novelty, I develop and test projects, Always help those in 
 ![](https://img.shields.io/badge/Tools-Visual%20Studio%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/Tools-Expo-informational?style=flat&logo=expo&logoColor=white&color=106CB0)
 ![](https://img.shields.io/badge/Test-Puppeteer-informational?style=flat&logo=puppeteer&logoColor=white&color=40B5A4)
+![](https://img.shields.io/badge/Front-VueJs-informational?style=flat&logo=vue.js&logoColor=white&color=4FC08D)
