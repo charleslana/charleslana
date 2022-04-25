@@ -16,7 +16,7 @@
 ###
 ![!](https://komarev.com/ghpvc/?username=charleslana&color=006699)
 
-### What's more practical
+### What more practical
 Studying is always a novelty, I develop and test projects, Always help those in need.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charleslana&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
