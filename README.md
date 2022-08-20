@@ -47,3 +47,4 @@ Studying is always a novelty, I develop and test projects, Always help those in 
 ![](https://img.shields.io/badge/Tools-Expo-informational?style=flat&logo=expo&logoColor=white&color=106CB0)
 ![](https://img.shields.io/badge/Test-Puppeteer-informational?style=flat&logo=puppeteer&logoColor=white&color=40B5A4)
 ![](https://img.shields.io/badge/Front-VueJs-informational?style=flat&logo=vue.js&logoColor=white&color=4FC08D)
+![](https://img.shields.io/badge/Test-Playwright-informational?style=flat&logo=playwright&logoColor=white&color=2EAD33)
