@@ -11,6 +11,9 @@
     <a target="_blank" href="https://play.google.com/store/apps/developer?id=Charles+Lana">
         <img src="https://img.shields.io/badge/Play Store-48ff48?style=for-the-badge&logo=googleplay&logoColor=white&color=414141">
     </a>
+    <a target="_blank" href="https://addons.mozilla.org/pt-BR/firefox/user/18218042">
+        <img src="https://img.shields.io/badge/Extensão Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white&color=FF7139">
+    </a>
 </div>
 
 ###
