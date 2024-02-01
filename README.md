@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&color=CB3837">
     </a>
     <a target="_blank" href="https://addons.mozilla.org/pt-BR/firefox/user/18218042">
-        <img src="https://img.shields.io/badge/Extensão Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white&color=FF7139">
+        <img src="https://img.shields.io/badge/Extension Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white&color=FF7139">
     </a>
 </div>
 
