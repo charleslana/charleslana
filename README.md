@@ -3,7 +3,7 @@
 ### My projects:
 
 <div>
-    <a target="_blank" href="https://github.com/charleslana">
+    <a target="_blank" href="https://github.com/charleslana?tab=repositories">
         <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white&color=181717">
     </a>
     <a target="_blank" href="https://www.linkedin.com/in/charleslana">
