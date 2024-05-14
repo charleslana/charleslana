@@ -1,5 +1,6 @@
-# Hello there, I'm Charles
-#### Life is a great path and the journey is a beginning of many emotions.
+# Hi 👋, Nice to meet you!
+
+### My projects:
 
 <div>
     <a target="_blank" href="https://github.com/charleslana">
@@ -19,16 +20,7 @@
     </a>
 </div>
 
-###
-![!](https://komarev.com/ghpvc/?username=charleslana&color=006699)
-
-### What more practical
-Studying is always a novelty, I develop and test projects, Always help those in need.
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charleslana&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<img width="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charleslana&langs_count=10&theme=dracula&layout=compact"/>
-
-### Technologies
+### Some of the technologies I use most on a daily basis
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=black&color=fcc624)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=f7df1e)
