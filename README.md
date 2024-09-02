@@ -9,9 +9,6 @@
     <a target="_blank" href="https://www.linkedin.com/in/charleslana">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2">
     </a>
-    <a target="_blank" href="https://play.google.com/store/apps/developer?id=Charles+Lana">
-        <img src="https://img.shields.io/badge/Play Store-48ff48?style=for-the-badge&logo=googleplay&logoColor=white&color=414141">
-    </a>
     <a target="_blank" href="https://www.npmjs.com/~charleslana">
         <img src="https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&color=CB3837">
     </a>
