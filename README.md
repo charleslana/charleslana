@@ -45,3 +45,4 @@
 ![](https://img.shields.io/badge/Test-Playwright-informational?style=flat&logo=playwright&logoColor=white&color=2EAD33)
 ![](https://img.shields.io/badge/Test-Cucumber-informational?style=flat&logo=cucumber&logoColor=white&color=23D96C)
 ![](https://img.shields.io/badge/Test-Appium-informational?style=flat&logo=appium&logoColor=white&color=66459B)
+![](https://img.shields.io/badge/Test-RobotFramework-informational?style=flat&logo=robotframework&logoColor=white&color=000000)
