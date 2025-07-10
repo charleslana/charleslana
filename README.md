@@ -15,12 +15,15 @@
     <a target="_blank" href="https://addons.mozilla.org/pt-BR/firefox/user/18218042">
         <img src="https://img.shields.io/badge/Extension Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white&color=FF7139">
     </a>
+    <a target="_blank" href="https://github.com/charleslana/fake-data-extension">
+        <img src="https://img.shields.io/badge/Extension Google-Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&color=4285F4">
+    </a>
     <a target="_blank" href="https://www.youtube.com/@charleslana7821">
         <img src="https://img.shields.io/badge/Youtube-FF7139?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000">
     </a>
 </div>
 
-### Some of the technologies I use most on a daily basis
+### Knowledge
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=black&color=fcc624)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=f7df1e)
@@ -49,3 +52,5 @@
 ![](https://img.shields.io/badge/Test-Cucumber-informational?style=flat&logo=cucumber&logoColor=white&color=23D96C)
 ![](https://img.shields.io/badge/Test-Appium-informational?style=flat&logo=appium&logoColor=white&color=66459B)
 ![](https://img.shields.io/badge/Test-RobotFramework-informational?style=flat&logo=robotframework&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Test-Restsharp-informational?style=flat&logo=sharp&logoColor=black&color=99CC00)
+![](https://img.shields.io/badge/Test-K6-informational?style=flat&logo=k6&logoColor=white&color=7D64FF)
