@@ -21,7 +21,7 @@
     <a target="_blank" href="https://www.youtube.com/@charleslana7821">
         <img src="https://img.shields.io/badge/Youtube-FF7139?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000">
     </a>
-    <a target="_blank" href="[https://apkpure.com/br/developer/Charles%20Lana](https://apkpure.com/br/developer/Charles%20Lana)">
+    <a target="_blank" href="https://apkpure.com/br/developer/Charles%20Lana">
         <img src="https://img.shields.io/badge/ApkPure-3DDC84?style=for-the-badge&logo=android&logoColor=3DDC84&color=black">
     </a>
 </div>
