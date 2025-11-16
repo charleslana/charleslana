@@ -57,3 +57,4 @@
 ![](https://img.shields.io/badge/Test-RobotFramework-informational?style=flat&logo=robotframework&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Test-Restsharp-informational?style=flat&logo=sharp&logoColor=black&color=99CC00)
 ![](https://img.shields.io/badge/Test-K6-informational?style=flat&logo=k6&logoColor=white&color=7D64FF)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
